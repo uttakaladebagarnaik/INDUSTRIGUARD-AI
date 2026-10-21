@@ -1,0 +1,12 @@
+{
+    "system": "ONLINE",
+    "camera": "CAM-03",
+    "zone": "Production Zone B",
+    "workers": 1,
+    "ppe_compliant": 0,
+    "no_helmet": 1,
+    "smoke": false,
+    "fire": false,
+    "risk_score": 30,
+    "risk_level": "WARNING"
+}

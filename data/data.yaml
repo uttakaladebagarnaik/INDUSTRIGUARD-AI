@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['helmet', 'no_helmet', 'safety_vest']
+
+roboflow:
+  workspace: taruns-workspace-zlkzw
+  project: ppe-helmet-vest-detection-vou1p-awk8h-mke8m
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/taruns-workspace-zlkzw/ppe-helmet-vest-detection-vou1p-awk8h-mke8m/dataset/1

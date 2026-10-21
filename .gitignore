@@ -1,0 +1,29 @@
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+runs/
+datasets/
+dataset/
+*.pt
+*.onnx
+*.engine
+
+.pytest_cache/
+.idea/
+.vscode/
+
+# Local logs and evidence
+alerts/evidence/
+alerts/events.csv
+alerts/incident_evidence.json
+alerts/evidence_reset.flag
+
+# Python packaging
+dist/
+build/

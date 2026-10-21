@@ -1,0 +1,7 @@
+path: C:/Users/UTTAKALA/Desktop/INDUSTRIGUARD-AI/data/fire_smoke
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['Fire', 'Smoke']
